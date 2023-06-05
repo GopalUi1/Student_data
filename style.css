@@ -1,0 +1,35 @@
+
+
+.full{
+    margin: 25px 320px;
+    background-color:rgb(151, 171, 189);
+   width:auto;
+height: auto;
+display:flex;
+font-size: large;
+border-radius: 14px;
+justify-content:center;
+align-items:center;
+}
+.pa{
+    font-size: 25px;
+    font-weight: bolder;
+}
+.pa2{
+    margin: 24px 18px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+.indexfull{
+    
+    margin: 20px 120px;
+    background-color:rgb(151, 171, 189);
+   width:auto;
+height: auto;
+display:flex;
+font-size: large;
+border-radius: 14px;
+justify-content:center;
+align-items:center;
+}
+
